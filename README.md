@@ -2,7 +2,7 @@
 
 # I'm Dioni Pinho
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=1E40AF&center=true&vCenter=true&width=600&lines=Senior+Cloud+Solutions+Architect;DevOps+%26+Platform+Engineering+Expert;Multi-Cloud+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=1E40AF&center=true&vCenter=true&width=600&lines=Senior+Cloud+Solutions+Architect;DevOps+%26+Platform+Engineering+Expert;Multi-Cloud+Engineer" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 With **7+ years** of experience across AWS, Azure, and Google Cloud, I design, implement, and optimize scalable, secure cloud infrastructures. My focus is on delivering robust DevOps and platform engineering solutions that fuel innovation and operational excellence.
 
@@ -23,7 +23,7 @@ Currently architecting **AI-powered cloud solutions** while developing **platfor
 
 ---
 
-## 🛠️ Core Skills
+## Core Skills
 
 <div align="center">
 
@@ -31,7 +31,7 @@ Currently architecting **AI-powered cloud solutions** while developing **platfor
 
 <div width="33%" align="center">
 
-## ☁️ **Cloud Platforms**
+## **Cloud Platforms**
 <br/>
 
 ![AWS](https://skillicons.dev/icons?i=aws)
@@ -48,7 +48,7 @@ Security & compliance frameworks
 
 <div width="33%" align="center">
 
-## 🐳 **Container & Orchestration**
+## **Container & Orchestration**
 <br/>
 
 ![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
@@ -64,7 +64,7 @@ Service mesh implementations
 
 <div width="33%" align="center">
 
-## 🔄 **CI/CD & Automation**
+## **CI/CD & Automation**
 <br/>
 
 ![GitHub Actions](https://skillicons.dev/icons?i=github)
@@ -83,7 +83,7 @@ Deployment strategies
 
 <div width="33%" align="center">
 
-## 🏗️ **Infrastructure as Code**
+## **Infrastructure as Code**
 <br/>
 
 ![Terraform](https://skillicons.dev/icons?i=terraform)
@@ -100,7 +100,7 @@ State management strategies
 
 <div width="33%" align="center">
 
-## 🛡️ **DevSecOps**
+## **DevSecOps**
 <br/>
 
 ![Linux](https://skillicons.dev/icons?i=linux)
@@ -119,7 +119,7 @@ Monitoring & alerting
 
 <div width="33%" align="center">
 
-## 🏛️ **Architecture & Leadership**
+## **Architecture & Leadership**
 <br/>
 
 ![HTMX](https://skillicons.dev/icons?i=htmx)
@@ -140,26 +140,26 @@ Strategic planning
 
 ---
 
-## 💼 Professional Expertise
+## Professional Expertise
 
-### 🏢 **Enterprise Solutions**
+### **Enterprise Solutions**
 - **Multi-cloud strategy** design and implementation solutions
 - **Zero-downtime migrations** from legacy infrastructure to cloud-native solutions
 - **Cost optimization** initiatives saving organizations 15-50% on cloud spending
 
-### 🔧 **Technical Leadership**
+### **Technical Leadership**
 - Led cross-functional teams of **15+ engineers** across multiple time zones
 - Architected **microservices platforms** handling millions of daily transactions
-- Implemented **GitOps workflows** reducing deployment time by 70%
+- Implemented **GitOps workflows**, reducing deployment time by 70%
 
-### 🛡️ **Security & Compliance**
+### **Security & Compliance**
 - Designed **security-first architectures** meeting SOC 2, HIPAA, and PCI-DSS standards
 - Automated **compliance monitoring** and reporting across multi-cloud environments
 - Established **incident response procedures** with 99.9% SLA achievement
 
 ---
 
-## 🔗 Connect
+## Connect
 
 <div align="center">
 
@@ -172,31 +172,31 @@ Strategic planning
 
 ---
 
-## 🎯 About & Values
+## About & Values
 
 > *"I believe in the power of **clarity**, **utility**, and **elegant engineering**. My approach is professional and minimalist, focused on what matters most—delivering value with precision and style."*
 
-### 🌟 **Core Principles**
+### **Core Principles**
 
-**🎯 Clarity First** - Every solution should be transparent, well-documented, and easily understood by all stakeholders. Complexity without purpose is simply noise.
+**Clarity First** - Every solution should be transparent, well-documented, and easily understood by all stakeholders. Complexity without purpose is simply noise.
 
-**⚡ Utility-Driven** - Technology serves business objectives. I focus on practical solutions that drive real value, not just technical sophistication for its own sake.
+**Utility-Driven** - Technology serves business objectives. I focus on practical solutions that drive real value, not just technical sophistication for its own sake.
 
-**✨ Elegant Engineering** - The best solutions are often the simplest. I strive for architectures that are both powerful and beautiful in their simplicity.
+**Elegant Engineering** - The best solutions are often the simplest. I strive for architectures that are both powerful and beautiful in their simplicity.
 
-**🔄 Continuous Learning** - The cloud landscape evolves rapidly. Staying ahead means embracing change and constantly expanding expertise across emerging technologies.
+**Continuous Learning** - The cloud landscape evolves rapidly. Staying ahead means embracing change and constantly expanding expertise across emerging technologies.
 
-**🤝 Collaborative Leadership** - Great solutions emerge from great teams. I believe in empowering others, sharing knowledge, and creating environments where innovation thrives.
+**Collaborative Leadership** - Great solutions emerge from great teams. I believe in empowering others, sharing knowledge, and creating environments where innovation thrives.
 
-### 🌍 **Beyond Technology**
+### **Beyond Technology**
 
-**🎵 Music & Creativity** - Music fuels my creativity and problem-solving approach. Whether it's discovering new genres during travels or attending local concerts, music provides the rhythm that keeps my innovative spirit alive.
+**Music & Creativity** - Music fuels my creativity and problem-solving approach. Whether it's discovering new genres during travels or attending local concerts, music provides the rhythm that keeps my innovative spirit alive.
 
-**✈️ Global Perspective** - Worldwide travel has shaped my approach to technology and business. Each culture offers unique perspectives on efficiency, collaboration, and innovation that I bring to my technical solutions.
+**Global Perspective** - Worldwide travel has shaped my approach to technology and business. Each culture offers unique perspectives on efficiency, collaboration, and innovation that I bring to my technical solutions.
 
-**📚 Knowledge Sharing** - From mentoring junior engineers to contributing to open-source projects, I believe in giving back to the community that has enabled my growth.
+**Knowledge Sharing** - From mentoring junior engineers to contributing to open-source projects, I believe in giving back to the community that has enabled my growth.
 
-**⚖️ Work-Life Integration** - Sustainable excellence comes from balance. I maintain peak performance by staying curious, staying active, and staying connected to the world beyond screens.
+**Work-Life Integration** - Sustainable excellence comes from balance. I maintain peak performance by staying curious, staying active, and staying connected to the world beyond screens.
 
 ---
 
@@ -210,6 +210,6 @@ Strategic planning
 
 <img src="https://komarev.com/ghpvc/?username=DioniPinho&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 
-**📍 Available for:** *Strategic Consulting* • *Technical Leadership* • *Speaking Engagements*
+**Available for:** *Strategic Consulting* • *Technical Leadership* • *Speaking Engagements*
 
 </div>
